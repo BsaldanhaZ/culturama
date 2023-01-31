@@ -38,7 +38,7 @@
  
 .eventos__item h5 {
     grid-area: local;
-    align-self: end;
+    
 }
  
 .eventos__item button {
