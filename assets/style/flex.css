@@ -4,8 +4,8 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    flex-wrap: wrap; //faz com que o elemento quebre para proxima linha quando nao tiver espaço
-    column-gap: 33px;  //joga o espaçamento dos itens para o lado 
+    flex-wrap: wrap; /*faz com que o elemento quebre para proxima linha quando nao tiver espaço*/
+    column-gap: 33px;  /*joga o espaçamento dos itens para o lado*/
 }
 
 /* Categorias */
